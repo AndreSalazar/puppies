@@ -33,7 +33,7 @@ This is a simple web-based application for managing posts related to dog picture
 
 ### **1. Clone the Repository**
 
-      git clone https://github.com/AndreSalazar/puppies-api.git
+      git clone https://github.com/AndreSalazar/puppies.git
       cd puppies-api
 
 ### **2. Install Dependencies**
